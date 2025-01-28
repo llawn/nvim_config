@@ -1,4 +1,3 @@
-
 return {
     "idanarye/vim-merginal",
 }
